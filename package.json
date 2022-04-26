@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanzubayer/employee-tracker-main"
+  },
+  "author": "Eric Philipps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanzubayer/employee-tracker-main/issues"
+  },
+  "homepage": "https://github.com/ryanzubayer/employee-tracker-main#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "inquirer": "^8.2.3",
+    "mysql2": "^2.3.3"
+  }
+}
